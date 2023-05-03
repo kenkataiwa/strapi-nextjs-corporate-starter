@@ -1,6 +1,5 @@
-{ 
+{
   "scripts": {
-  
     "frontend": "yarn dev --prefix ../frontend/",
     "backend": "yarn dev --prefix ../backend/",
     "clear": "cd frontend/.next && rm -rf cache",
